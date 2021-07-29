@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outlook_mail_reader", "Outlook_mail_reader\Outlook_mail_reader.csproj", "{7198C4ED-1E78-47A7-A9C7-DF578F003DDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7198C4ED-1E78-47A7-A9C7-DF578F003DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7198C4ED-1E78-47A7-A9C7-DF578F003DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7198C4ED-1E78-47A7-A9C7-DF578F003DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7198C4ED-1E78-47A7-A9C7-DF578F003DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF8B1DFE-D26E-4697-A765-70A0E3822949}
+	EndGlobalSection
+EndGlobal
